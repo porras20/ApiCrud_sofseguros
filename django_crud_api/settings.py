@@ -138,4 +138,4 @@ if not DEBUG:
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # cors authorization
-CORS_ALLOWED_ORIGINS = ["https://crud-clientes-sof-seguros.vercel.app"]
+CORS_ALLOWED_ORIGINS = ["https://crud-clientes-sof-seguros.vercel.app", "http://127.0.0.1:5174"]
